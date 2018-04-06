@@ -58,5 +58,7 @@ docker run -it --rm -p 80:80 drupal
 
 Voilà! Olet valmis.
 
+![Kuvakaappaus Drupalin asennusruudusta](/img/screenshot-install-drupal.png)
+
 ### Apua!
 Ei hätää, meiltä saat asennusapua tuntia ennen kurssipäivän alkua, eli tervetuloa paikalle jo hyvissä ajoin.

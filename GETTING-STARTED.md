@@ -62,5 +62,7 @@ Voilà! Olet valmis.
 
 ![Kuvakaappaus Drupalin asennusruudusta](/img/screenshot-install-drupal.png)
 
+Huomioi, että ylläolevassa käynnistyskomennossa asennettu Drupal tuhoutuu, kun käynnistyskomento pysäytetään.
+
 ### Apua!
 Ei hätää, meiltä saat asennusapua tuntia ennen kurssipäivän alkua, eli tervetuloa paikalle jo hyvissä ajoin.

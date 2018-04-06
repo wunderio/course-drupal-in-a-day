@@ -30,6 +30,8 @@ Linux
 * Mene sivulle https://docs.docker.com/install/#server
 * Etsi DOCKER CE-taulukosta oma Linux-jakelusi ja seuraa linkkiä asennusohjeisiin.
 
+Windows / MacOS: Käynnistä Docker ikonista
+
 ### 2) Avaa komentorivi / komentokehote / pääte / terminaali
 Windows 10 Pro
 

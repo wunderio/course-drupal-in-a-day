@@ -15,7 +15,7 @@ Mikäli yhteensopivaa tietokonetta ei löydy, tai kehitysympäristön asentamine
 Omalle koneelle asennettava kehitysympäristö on Drupal-kehityksen tärkeimpiä työkaluja ja suosittelemmekin ainakin kokeilemaan sen asennusta. **Meiltä saat myös asennusapua paikan päällä tunnin ajan ennen kurssin aloitusta**, joten tulethan tällöin hyvissä ajoin.
 
 ### 1) Asenna Docker
-Käyttöjärjestelmäkohtaiset asennusohjeet löydät alta.
+Käyttöjärjestelmäkohtaiset asennusohjeet löydät alta. Asenna **stable**-versio.
 
 Windows 10 Pro
 

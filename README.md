@@ -1,5 +1,6 @@
-# Drupal in a Day
-This course is organized by Wunder.io and this repository contains reference
-material for that course.
+# Drupal päivässä
+Tervetuloa koulutukseen! Tässä repossa saat tarvittavat ohjeistukset ja
+kurssimateriaalit kurssin osallistumista varten.
 
-This course material is localized into different languages.
+Valmistaudu kurssiin seuraamalla [valmistautumisohjeita](GETTING-STARTED.md).
+

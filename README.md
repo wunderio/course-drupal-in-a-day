@@ -2,4 +2,7 @@
 This course is organized by Wunder.io and this repository contains reference
 material for that course.
 
-This course material is localized into different languages.
+This course material is localized into different languages:
+
+* [Finnish](/wunderio/course-drupal-in-a-day/tree/finnish)
+

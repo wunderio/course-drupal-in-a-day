@@ -4,5 +4,5 @@ material for that course.
 
 This course material is localized into different languages:
 
-* [Finnish](/tree/finnish)
+* [Finnish](https://github.com/wunderio/course-drupal-in-a-day/tree/finnish)
 

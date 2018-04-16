@@ -56,7 +56,7 @@ Aja komentorivillä seuraava komento:
 docker run -d -p 80:80 drupal
 ```
 
-Kyseinen komento käynnistää Drupalin taustalle. Saat komennon vastaukseksi kontin instanssin tunnisteen, joka näyttä esimerkiksi tältä: `bd98dade2cac33b20dfe7516dc0a3f0991a502e7a3aa8e27485bbc64dccdcaa3`
+Kyseinen komento käynnistää Drupalin taustalle. Saat komennon vastaukseksi kontin instanssin tunnisteen, joka näyttää esimerkiksi tältä: `bd98dade2cac33b20dfe7516dc0a3f0991a502e7a3aa8e27485bbc64dccdcaa3`
 
 ### 5) Testaa
 
@@ -68,7 +68,7 @@ Voilà! Olet valmis.
 ![Kuvakaappaus Drupalin asennusruudusta](/img/screenshot-install-drupal.png)
 
 ### 6) Drupalin pysäyttäminen ja uudelleenkäynnistäminen
-Mikäli olet sammuttanut tai uudelleenkäynnistänyt koneen. Sinun tulee käyninstää Drupal uudelleen.
+Mikäli olet sammuttanut tai uudelleenkäynnistänyt koneen. Sinun tulee käynnistää Drupal uudelleen.
 
 Käynnistä kontti uudelleen seuraavalla komennolla:
 

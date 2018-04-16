@@ -42,16 +42,21 @@ MacOS & Linux
 * Pääte / Terminal
 
 ### 3) Lataa Drupalin levykuva
+
 Aja komentorivillä seuraava komento:
 ```
 docker pull drupal
 ```
 
 ### 4) Käynnistä Drupal
+
 Aja komentorivillä seuraava komento:
+
 ```
-docker run -it --rm -p 80:80 drupal
+docker run -d -p 80:80 drupal
 ```
+
+Kyseinen komento käynnistää Drupalin taustalle. Saat komennon vastaukseksi kontin instanssin tunnisteen, joka näyttä esimerkiksi tältä: `bd98dade2cac33b20dfe7516dc0a3f0991a502e7a3aa8e27485bbc64dccdcaa3`
 
 ### 5) Testaa
 
@@ -62,7 +67,22 @@ Voilà! Olet valmis.
 
 ![Kuvakaappaus Drupalin asennusruudusta](/img/screenshot-install-drupal.png)
 
-Huomioi, että ylläolevassa käynnistyskomennossa asennettu Drupal tuhoutuu, kun käynnistyskomento pysäytetään.
+### 6) Drupalin pysäyttäminen ja uudelleenkäynnistäminen
+Mikäli olet sammuttanut tai uudelleenkäynnistänyt koneen. Sinun tulee käyninstää Drupal uudelleen.
+
+Käynnistä kontti uudelleen seuraavalla komennolla:
+
+```
+docker start bd98dade2cac33b20dfe7516dc0a3f0991a502e7a3aa8e27485bbc64dccdcaa3
+```
+
+Vois myös pysäyttää kontin milloin vain käyttämällä seuraavaa komentoa:
+
+```
+docker stop bd98dade2cac33b20dfe7516dc0a3f0991a502e7a3aa8e27485bbc64dccdcaa3
+```
+
+*Vinkki: Voit käyttää koko tunnisteen sijasta ensimäiset kolme kirjainta. Docker päättelee sen perusteella, mitä varsinaista konttia haluat komentaa. Mikäi kaksi samanlaista kolmen kirjaimen alkuista konttia löytyy, joudut tarkentamaan käyttämällä neljä tai useampaa merkkiä merkkijonon alusta.*
 
 ### Apua!
 Ei hätää, meiltä saat asennusapua tuntia ennen kurssipäivän alkua, eli tervetuloa paikalle jo hyvissä ajoin.

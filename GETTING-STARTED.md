@@ -68,7 +68,7 @@ Voilà! Olet valmis.
 ![Kuvakaappaus Drupalin asennusruudusta](/img/screenshot-install-drupal.png)
 
 ### 6) Drupalin pysäyttäminen ja uudelleenkäynnistäminen
-Mikäli olet sammuttanut tai uudelleenkäynnistänyt koneen. Sinun tulee käynnistää Drupal uudelleen.
+Mikäli olet sammuttanut tai uudelleenkäynnistänyt koneen, sinun tulee käynnistää Drupal uudelleen.
 
 Käynnistä kontti uudelleen seuraavalla komennolla:
 
